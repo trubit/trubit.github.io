@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trubit Crypto Exchanger: Revolutionizing Cryptocurrency Trading
+title: Trubit Crypto Exchanger
 subtitle: Quick Summary
 categories: website
 tags: [Trubit, cryptocurrency, trading]
