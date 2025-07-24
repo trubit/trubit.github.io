@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Trubit crypto exchanger 
-email: trubitexchanger@gmail.com
-author: Trubitxchanger
+title: Welcome to My Portfolio
+email: trustezika831@gmail.com
+author: Ezika Trust Chidi 
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,8 +43,7 @@ author: Trubitxchanger
 copyright: "Unpublished Work (cleft) -{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Trubit is a premier cryptocurrency exchange platform designed for both novice and experienced traders. Our platform offers a comprehensive suite of tools and resources to facilitate secure and efficient trading across a diverse range of cryptocurrencies. With a commitment to exceptional security protocols and user experience, Trubit empowers users to make informed trading decisions while navigating the dynamic cryptocurrency market. Join us at Trubit to elevate your trading experience and stay ahead of market trends.
-  
+  A portfolio showcasing my journey as an aspiring programmer
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
