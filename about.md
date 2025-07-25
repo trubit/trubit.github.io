@@ -3,19 +3,16 @@ layout: about
 title: About
 ---
 
-##  welcome to Trubit Crypto Exchanger 
+##   Welcome to my Portfolio 
 
 ###  Why
-At Trubit, we prioritize security, transparency, and efficiency to enhance your trading experience. Our commitment to innovation ensures that you have access to the latest market trends and technologies.
-
+I trust believe in transparency and continuous learning. My goal is to stay updated with industry trends and develop skills that will help me succeed in my career.
 ###  How
-We offer a seamless registration process, robust security measures, and a variety of trading options. Our platform is designed to be intuitive, making it easy for users to navigate and execute trades.
-
+I aim to learn from industry leaders and apply my skills through hands-on projects. Seeking feedback helps me improve, and I aspire to secure a job to contribute and grow in my field.
 ### What
-Trubit provides a comprehensive suite of services, including real-time market data, customizable trading features, and dedicated customer support to assist you at every step of your trading journey.
+I create projects that showcase my programming skills and passion for technology. My portfolio reflects my learning journey and the technologies I work with.
 
 
 ### Contact 
-For inquiries or support, please reach out to us at  (trubitexchanger@gmail.com )or call us at +234 7037643440.
-
+For inquiries or collaboration, please reach out to me at [trustezika831@gmail.com].
 
